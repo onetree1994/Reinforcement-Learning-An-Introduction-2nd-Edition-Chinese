@@ -5,11 +5,11 @@
 https://blog.csdn.net/u013695457/article/category/7678906
 
 # 主要参考资料
-1.原书第二版：https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view
-2.张文知乎：https://zhuanlan.zhihu.com/c_1060499676423471104
-3.CSDN翻译：
+1. 原书第二版：https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view
+2. 张文知乎：https://zhuanlan.zhihu.com/c_1060499676423471104
+3. CSDN翻译：
 https://blog.csdn.net/qq_25037903/article/category/7969322
 https://blog.csdn.net/y954877035/article/details/54426174
-4.本人上传的资料：
+4. 本人上传的资料：
 https://download.csdn.net/download/u013695457/11064693
 https://download.csdn.net/download/u013695457/11026434
